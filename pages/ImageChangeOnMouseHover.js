@@ -6,11 +6,11 @@ const ImageChangeOnMouseHover = () =>{
     return (
         <div>
             <ImageToggleOnMouseOver primaryImg="/static/speaker/bw/Speaker1.jpeg"
-                                    secondaryImg="/static/speaker/color.jpeg"
+                                    secondaryImg="/static/speaker/clr3.jpeg"
                                     alt="logo"/>
             &nbsp; &nbsp; &nbsp; &nbsp;
             <ImageToggleOnMouseOver primaryImg="/static/speaker/bw/sp2.jpeg"
-                                    secondaryImg="/static/speaker/clr2.png"
+                                    secondaryImg="/static/speaker/clr5.png"
                                     alt="logo"/>
         </div>
     );
